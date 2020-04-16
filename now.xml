@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="NOW">
+    <display-name lang="pt">NOW</display-name>
+    <icon src="https://1.bp.blogspot.com/-LlFoNXX9W40/XnBVdbRy-fI/AAAAAAABiio/57SITbZbLXEm9PT-Ff6yAS_hZccyCFACACLcBGAsYHQ/s1600/nowlogo.png" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+   <programme start="20200416000000 -0300" stop="20220401020000 -0300" channel="NOW">
+    <title lang="pt">NOW</title>
+    <desc lang="pt">Aproveite o melhor da programação da NET com o NOW</desc>
+    <category lang="pt">NET NOW</category>
+    <category lang="pt">VOD</category>
+    <country>Brasil</country>
+  </programme>
